@@ -395,7 +395,7 @@ body.dark-theme {
 
 .skills_group {
   display: grid;
-  align-content: flex-start;
+  align-content: center;
   row-gap: 1rem;
 }
 
